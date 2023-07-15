@@ -1,0 +1,175 @@
+@charset "utf-8";
+.aqua{
+    width: 1200px;
+    height: 70px;
+    background-color: aqua;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+.mini{
+    width: 120px;
+    height: 30px;
+    background-color: gray;
+}
+.ywrgg{
+    display: flex;
+    height: 500px;
+}
+.yellow{
+    width: 300px;
+    background-color: yellow;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.wwo{
+    width: 240px;
+    height: 40px;
+    margin-top: 30px;
+    display: flex;
+}
+.wo{
+    width: 40px;
+    height: 100%;
+    background-color: white;
+    margin-right: 10px;
+}
+.woo{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.ni{
+    width: 240px;
+    height: 40px;
+    display: flex;
+    margin-top: 20px;
+}
+.nio{
+    width: 40px;
+    height: 100%;
+    background-color: white;
+    margin-right: 10px;
+}
+.nit{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.san{
+    width: 240px;
+    height: 40px;
+    display: flex;
+    margin-top: 20px;
+}
+.sano{
+    width: 40px;
+    height: 100%;
+    background-color: white;
+    margin-right: 10px;
+}
+.sant{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.yon{
+    width: 240px;
+    height: 40px;
+    display: flex;
+    margin-top: 20px;
+}
+.yono{
+    width: 40px;
+    height: 100%;
+    background-color: white;
+    margin-right: 10px;
+}
+.yont{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.go{
+    width: 240px;
+    height: 40px;
+    display: flex;
+    margin-top: 20px;
+}
+.goo{
+    width: 40px;
+    height: 100%;
+    background-color: white;
+    margin-right: 10px;
+}
+.got{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.red{
+    width: 240px;
+    height: 130px;
+    background-color: red;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.back{
+    width: 900px;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.greeno{
+    width: 250px;
+    height: 440px;
+    background-color: greenyellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.gw{
+    width: 210px;
+    height: 400px;
+    background-color: white;
+    margin: 20px;
+}
+.greent{
+    width: 550px;
+    background-color: greenyellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 20px 20px;
+    justify-content: center;
+}
+.greent :nth-child(n+1):nth-child(-n+3){
+    margin-top: 30px;
+}
+.g{
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+}
+.y{
+    width: 150px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.gray{
+    height: 130px;
+    background-color: gray;
+}
+.clearfix::after{
+    display: block;
+    clear: both;
+    content: "";
+}
+.box{
+    width: 1200px;
+}
